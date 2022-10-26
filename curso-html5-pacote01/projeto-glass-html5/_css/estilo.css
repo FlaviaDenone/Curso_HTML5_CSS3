@@ -162,6 +162,10 @@ header#cabecalho-artigo h1{
     margin-top: 0px;
 }
 
+.direita{
+    text-align: right;
+}
+
 video#filme01{
     display: block;
     position: relative;
@@ -169,11 +173,6 @@ video#filme01{
     top: -5px;
     width: 470px;
 }
-
-.direita{
-    text-align: right;
-}
-
 header#cabecalho-artigo h2{
     font-size: 13pt;
     color: #cecece;
